@@ -1,0 +1,43 @@
+.shadow-text {
+    text-shadow: purple 5px 5px;
+}
+
+body {
+    background-color: seagreen;
+}
+
+div {
+    border-style: solid;
+    background-color: gray;
+    font-family: fantasy;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 5px solid green;
+}
+
+th {
+    padding: 10px;
+    background-color: purple;
+    text-align: left;
+}
+
+form {
+    background-color: silver;
+    border-style: double;
+    }
+
+img {
+    float: right;
+}
+
+tr:hover {
+    background-color: gray;
+}

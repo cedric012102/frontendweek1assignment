@@ -1,0 +1,29 @@
+body {
+    background-color: violet;
+}
+
+h1 {
+    color: rgb(88, 51, 45);
+}
+
+.hov {
+    height: 30px;
+   width: 200px;
+   background-color: rgb(2, 2, 22);
+}
+
+.hov:hover {
+    background-color: forestgreen;
+}
+
+img {
+    float: right;
+}
+
+.shadow-text {
+    text-shadow: gray 1px 1px;
+}
+
+#large-paragraph {
+    font-size: 30px;
+}
